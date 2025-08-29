@@ -1,6 +1,4 @@
 <!-- Banner -->
-![Banner](assets/banner.png)
-
 # 👋 Olá, sou Phoebe Regina!
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🎨 Apaixonada por **desenho, rock e tecnologia**  
