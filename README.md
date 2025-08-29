@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Banner](https://i.ibb.co/9w7hFyv/banner.png)
 
-# 👋 Hi, Sou Phoebe Regina!
+# 👋 Olá, sou Phoebe Regina!
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🎨 Apaixonada por **desenho, rock e tecnologia**  
 🚀 Interesses: **cibersegurança, IA e criatividade com tecnologia**  
@@ -30,9 +30,9 @@
 ---
 
 ## 🌟 Projetos em destaque
-- 🎮 [IA jogando Flappy Bird com NEAT]
-- 📱 [Projeto de Iniciação Científica sobre Equoterapia (Site, Aplicativo e Software)] 
-- ⚔️ [Banco Financeiro]  
+- [IA jogando Flappy Bird com NEAT]
+- [Projeto de Iniciação Científica sobre Equoterapia (Site, Aplicativo e Software)] 
+- [Banco Financeiro]  
 
 ---
 
