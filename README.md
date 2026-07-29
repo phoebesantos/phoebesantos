@@ -79,9 +79,9 @@ Aplicações envolvendo Java, Python, banco de dados, APIs e desenvolvimento web
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:reginaphoebe06@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+&nbsp;&nbsp;
+
+📧 **reginaphoebe06@gmail.com**
 
 </p>
 
