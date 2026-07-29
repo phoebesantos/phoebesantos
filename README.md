@@ -79,7 +79,7 @@ Aplicações envolvendo Java, Python, banco de dados, APIs e desenvolvimento web
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:reginaphoebe06@gmail.com">
 <img src="https://img.shields.io/badge/SEUEMAIL%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
