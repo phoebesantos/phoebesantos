@@ -12,7 +12,7 @@
 
 ## 👩‍💻 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas, IFSP**
 
 💜 Apaixonada por programação, tecnologia e resolução de problemas.
 
