@@ -80,7 +80,7 @@ Aplicações envolvendo Java, Python, banco de dados, APIs e desenvolvimento web
 </a>
 
 <a href="mailto:reginaphoebe06@gmail.com">
-<img src="https://img.shields.io/badge/SEUEMAIL%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/reginaphoebe06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
