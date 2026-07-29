@@ -61,27 +61,6 @@ Aplicações envolvendo Java, Python, banco de dados, APIs e desenvolvimento web
 
 ---
 
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=phoebesantos&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=phoebesantos&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -111,7 +90,5 @@ Aplicações envolvendo Java, Python, banco de dados, APIs e desenvolvimento web
 <div align="center">
 
 ### ⭐ Obrigada pela visita!
-
-<img src="https://komarev.com/ghpvc/?username=phoebesantos&color=8A2BE2&style=for-the-badge"/>
 
 </div>
