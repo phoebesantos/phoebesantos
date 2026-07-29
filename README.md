@@ -61,7 +61,7 @@ Aplicações envolvendo Java, Python, banco de dados, APIs e desenvolvimento web
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake Game
 
 <div align="center">
 
