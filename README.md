@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Olá, eu sou a Phoebe Ribeiro
+# 👋 Olá, eu sou a Phoebe Regina
 
 ### 💻 Software Developer • ADS Student • Technology Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Análise+e+Desenvolvimento+de+Sistemas;Java+%7C+Python+%7C+JavaScript;Sempre+aprendendo+algo+novo.;Welcome+to+my+GitHub!+💜"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Análise+e+Desenvolvimento+de+Sistemas;Java+%7C+Python+%7C+JavaScript;Sempre+aprendendo+,+sempre+criando.;Welcome+to+my+GitHub!+💜"/>
 
 </div>
 
@@ -22,8 +22,6 @@
 - Desenvolvimento Web
 - Banco de Dados
 - Engenharia de Software
-
-🚀 Em busca de uma oportunidade de estágio em desenvolvimento de software.
 
 ---
 
@@ -63,23 +61,12 @@ Aplicações envolvendo Java, Python, banco de dados, APIs e desenvolvimento web
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=phoebesantos&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -89,7 +76,7 @@ Aplicações envolvendo Java, Python, banco de dados, APIs e desenvolvimento web
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=phoebesantos&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 
 </div>
 
@@ -109,11 +96,11 @@ Aplicações envolvendo Java, Python, banco de dados, APIs e desenvolvimento web
 
 <p align="center">
 
-<a href="https://linkedin.com/in/SEULINK">
+<a href="https://linkedin.com/in/phoebe-ribeiro">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:reginaphoebe06@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -125,6 +112,6 @@ Aplicações envolvendo Java, Python, banco de dados, APIs e desenvolvimento web
 
 ### ⭐ Obrigada pela visita!
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=8A2BE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=phoebesantos&color=8A2BE2&style=for-the-badge"/>
 
 </div>
