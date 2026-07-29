@@ -4,7 +4,7 @@
 
 ### 💻 Software Developer • ADS Student • Technology Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Análise+e+Desenvolvimento+de+Sistemas;Java+%7C+Python+%7C+C;Sempre+aprendendo,+sempre+criando.;Bem+vindos+ao+meu+GitHub!+💜"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Análise+e+Desenvolvimento+de+Sistemas;Java+%7C+HTML+%7C+Python+%7C+C;Sempre+aprendendo,+sempre+criando.;Bem+vindos+ao+meu+GitHub!+💜"/>
 
 </div>
 
